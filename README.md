@@ -1,6 +1,6 @@
 # 👨‍💻 Sandesh Varpe
 
-**Aspiring Software Developer | Java Developer | Web Technologies **
+Aspiring Software Developer | Java Developer | Web Technologies 
 
 ---
 
