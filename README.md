@@ -105,7 +105,7 @@ Developed an AR application that enables users to interactively visualize CPU co
 
 - 📧 Email: [sandeshvarpe1056@gmail.com](mailto:sandeshvarpe1056@gmail.com)  
 - 📞 Phone: +91 8308896321  
-- 📍 Location: Kolhapur, Maharashtra, India  
+- 📍 Location: Pune, Maharashtra, India  
 - 🔗 LinkedIn: www.linkedin.com/in/sandesh-varpe-790795205
 
 ---
