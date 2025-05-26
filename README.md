@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Sandesh Varpe
+ <h1>👋 Hi, I'm Sandesh Varpe </h1>
 
 ### Software Developer | Problem Solver | Open Source Enthusiast
 
