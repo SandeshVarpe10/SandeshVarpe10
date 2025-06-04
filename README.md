@@ -6,7 +6,7 @@
 
 <a href="https://github.com/SandeshVarpe10">
  <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F75C7E&width=435&lines=Java+Full+Stack+Developer;DevOps+Enthusiast;Loves+to+automate+everything" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F75C7E&width=435&lines=Java+Full+Stack+Developer;Software+developer;Loves+to+automate+everything" />
 
   </p></a>
 
